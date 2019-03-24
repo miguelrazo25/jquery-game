@@ -1,0 +1,27 @@
+body{
+	background-image: url("../images/background.png");
+	font-family: 'ubuntu', sans-serif;
+	text-align: center;
+}
+div{
+	background: rgb(28, 16, 68);
+    color: rgb(13, 110, 175);
+	margin: 10px;
+	width: 25%;
+	padding: 10px;
+	float: left;
+}
+h1{
+	font-size: 40px;
+    color: rgb(70, 181, 255);
+}
+.game-info {
+clear: both;
+}
+.ran-num, .player, .gems, .wandl{
+	width: 20%;
+}
+.gem-img{
+	height: 60px;
+	margin: 10px;
+}
